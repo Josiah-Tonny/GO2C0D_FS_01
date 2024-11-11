@@ -1,0 +1,193 @@
+[
+  {
+    "id": "1637189194441",
+    "title": "My First Blog Post",
+    "content": "This is the content of my first blog post.",
+    "tags": [
+      "react",
+      "node.js",
+      "blogging"
+    ],
+    "author": "John Doe",
+    "imageUrl": "/assets/uploads/1637189194441_image.jpg",
+    "date": "November 17, 2024, 10:30:00 AM"
+  },
+  {
+    "id": "1637189272002",
+    "title": "Another Blog Post",
+    "content": "This is the content of another post.",
+    "tags": [
+      "express",
+      "web development"
+    ],
+    "author": "Jane Smith",
+    "imageUrl": "/assets/uploads/1637189272002_image.jpg",
+    "date": "November 17, 2024, 10:40:00 AM"
+  },
+  {
+    "id": "1731245903639",
+    "title": "Dues lo Vult",
+    "content": "All has been well in life with ist Challanges we face",
+    "tags": [
+      "#Life"
+    ],
+    "author": "Josiah Tonny",
+    "imageUrl": "/assets/uploads/1731245903628-menu.jpg",
+    "date": "2024-11-10T13:38:23.639Z"
+  },
+  
+    {
+      "id": "1637189194441",
+      "title": "World Cup Final: Argentina vs Brazil",
+      "content": "The final showdown of the World Cup between Argentina and Brazil is set to be a thrilling contest. Fans around the globe are eagerly awaiting the outcome of this historic match.",
+      "tags": ["sports", "football", "world cup"],
+      "author": "John Doe",
+      "imageUrl": "/assets/uploads/worldcup-final.jpg",
+      "date": "September 28, 2024, 4:15:00 PM"
+    },
+    {
+      "id": "1637189272002",
+      "title": "Cultural Festival in Japan: A Fusion of Tradition and Modernity",
+      "content": "Japan's annual cultural festival celebrates the rich history of the country while embracing modern cultural innovations. Join us for a week of traditional dances, modern art, and culinary delights.",
+      "tags": ["culture", "festival", "Japan"],
+      "author": "Jane Smith",
+      "imageUrl": "/assets/uploads/cultural-festival.jpg",
+      "date": "October 3, 2024, 9:30:00 AM"
+    },
+    {
+      "id": "1731245903639",
+      "title": "US Election Results: A New Era Begins",
+      "content": "With the election results in, the United States has elected its new president. The nation is now preparing for a new chapter in its political history.",
+      "tags": ["politics", "elections", "USA"],
+      "author": "Josiah Tonny",
+      "imageUrl": "/assets/uploads/us-election-results.jpg",
+      "date": "October 12, 2024, 8:45:00 PM"
+    },
+    {
+      "id": "1637189194442",
+      "title": "Global Climate Change Summit: Key Takeaways",
+      "content": "World leaders have gathered to discuss the urgent need for climate action. The summit's key points will shape global policy for years to come.",
+      "tags": ["environment", "climate change", "politics"],
+      "author": "Emma Green",
+      "imageUrl": "/assets/uploads/climate-summit.jpg",
+      "date": "September 20, 2024, 7:00:00 AM"
+    },
+    {
+      "id": "1637189272003",
+      "title": "New Trends in Comedy: The Rise of Digital Performances",
+      "content": "Stand-up comedy has gone digital, with more comedians turning to online platforms to engage their audiences. What does the future hold for comedy in the digital age?",
+      "tags": ["comedy", "digital media", "entertainment"],
+      "author": "Mark Lee",
+      "imageUrl": "/assets/uploads/comedy-digital.jpg",
+      "date": "October 15, 2024, 10:15:00 AM"
+    },
+    {
+      "id": "1637189272004",
+      "title": "Olympic Games Preparation: A Look at Team USA",
+      "content": "As the Olympics draw near, Team USA is ramping up preparations. This post takes a closer look at the athletes and strategies that will define their performance.",
+      "tags": ["sports", "Olympics", "Team USA"],
+      "author": "Sarah Johnson",
+      "imageUrl": "/assets/uploads/olympic-prep.jpg",
+      "date": "September 30, 2024, 4:00:00 PM"
+    },
+    {
+      "id": "1637189272005",
+      "title": "The Rise of K-Pop in Western Culture",
+      "content": "K-Pop is taking the world by storm, with its addictive beats and stunning visuals. How has this genre reshaped global pop culture?",
+      "tags": ["culture", "music", "K-Pop"],
+      "author": "Alex Kim",
+      "imageUrl": "/assets/uploads/kpop-rise.jpg",
+      "date": "October 5, 2024, 2:30:00 PM"
+    },
+    {
+      "id": "1637189272006",
+      "title": "European Union's Economic Recovery Plan",
+      "content": "The EU's new recovery plan is being hailed as a model for post-pandemic recovery. What does this mean for Europe’s economic future?",
+      "tags": ["economics", "politics", "EU"],
+      "author": "Rachel Brooks",
+      "imageUrl": "/assets/uploads/eu-recovery.jpg",
+      "date": "October 1, 2024, 9:00:00 AM"
+    },
+    {
+      "id": "1637189272007",
+      "title": "Indian Premier League: A Season to Remember",
+      "content": "The Indian Premier League (IPL) has provided some thrilling moments this season. From last-minute wins to spectacular performances, this year’s IPL has been unforgettable.",
+      "tags": ["sports", "IPL", "cricket"],
+      "author": "John Paul",
+      "imageUrl": "/assets/uploads/ipl-2024.jpg",
+      "date": "October 20, 2024, 3:30:00 PM"
+    },
+    {
+      "id": "1731245903640",
+      "title": "Political Drama Unfolds in France",
+      "content": "France's political scene is in turmoil as new reforms and protests spark heated debates. Will this lead to a shift in power?",
+      "tags": ["politics", "France", "reforms"],
+      "author": "Michael Clark",
+      "imageUrl": "/assets/uploads/france-politics.jpg",
+      "date": "October 18, 2024, 5:15:00 PM"
+    },
+    {
+      "id": "1731245903641",
+      "title": "The Rise of Artificial Intelligence in Politics",
+      "content": "Artificial intelligence is starting to play a key role in shaping political discourse. From campaign strategies to public sentiment analysis, AI is changing the political landscape.",
+      "tags": ["AI", "politics", "technology"],
+      "author": "Olivia Harris",
+      "imageUrl": "/assets/uploads/ai-politics.jpg",
+      "date": "September 25, 2024, 6:45:00 AM"
+    },
+    {
+      "id": "1731245903642",
+      "title": "Drama Unfolds at the Cannes Film Festival",
+      "content": "This year’s Cannes Film Festival is filled with suspense as several films spark intense debates and surprise winners emerge.",
+      "tags": ["drama", "film festival", "Cannes"],
+      "author": "Tom Riddle",
+      "imageUrl": "/assets/uploads/cannes-film.jpg",
+      "date": "September 16, 2024, 2:00:00 PM"
+    },
+    {
+      "id": "1731245903643",
+      "title": "Brexit's Long-Term Economic Impact on the UK",
+      "content": "As the UK navigates its post-Brexit future, economists are predicting long-term challenges. This post explores what lies ahead for Britain’s economy.",
+      "tags": ["politics", "economy", "Brexit"],
+      "author": "Sophie Turner",
+      "imageUrl": "/assets/uploads/brexit-impact.jpg",
+      "date": "September 13, 2024, 8:30:00 AM"
+    },
+    {
+      "id": "1731245903644",
+      "title": "The Best Comedy Shows of 2024",
+      "content": "From stand-up to sitcoms, 2024 has seen a variety of top comedy shows. Which ones have audiences laughing the hardest?",
+      "tags": ["comedy", "television", "2024"],
+      "author": "David Park",
+      "imageUrl": "/assets/uploads/comedy-shows.jpg",
+      "date": "October 10, 2024, 7:15:00 PM"
+    },
+    {
+      "id": "1731245903645",
+      "title": "NASA's Latest Mars Mission",
+      "content": "NASA’s latest mission to Mars is yielding groundbreaking discoveries. What are the new findings, and what’s next for space exploration?",
+      "tags": ["science", "space", "NASA"],
+      "author": "Grace Liu",
+      "imageUrl": "/assets/uploads/nasa-mars.jpg",
+      "date": "October 2, 2024, 11:00:00 AM"
+    },
+    {
+      "id": "1731245903646",
+      "title": "Political Protests in Russia: What's at Stake?",
+      "content": "Ongoing protests in Russia are challenging the government's authority. What do these protests mean for the future of Russian politics?",
+      "tags": ["politics", "protests", "Russia"],
+      "author": "Liam Smith",
+      "imageUrl": "/assets/uploads/russia-protests.jpg",
+      "date": "September 22, 2024, 6:00:00 PM"
+    },
+    {
+      "id": "1731245903647",
+      "title": "Art and Culture in the Heart of Africa",
+      "content": "A deep dive into the vibrant art and culture of Africa, showcasing how traditional art is evolving.",
+      "tags": ["culture", "art", "Africa"],
+      "author": "Maria Bello",
+      "imageUrl": "/assets/uploads/africa-art-culture.jpg",
+      "date": "October 8, 2024, 3:00:00 PM"
+    }
+    
+]
